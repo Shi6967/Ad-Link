@@ -139,7 +139,7 @@ local function CloseOpen()
 	Close_ImageButton.BorderColor3 = Color3.fromRGB(80, 0, 130)
 	Close_ImageButton.Position = UDim2.new(0.1021, 0, 0.0743, 0)
 	Close_ImageButton.Size = UDim2.new(0, 59, 0, 49)
-	Close_ImageButton.Image = "https://www.canva.com/design/DAG3oUuZ-Nc/ZBXINGIaCm3TWYjKp70g9Q/edit?utm_content=DAG3oUuZ-Nc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+	Close_ImageButton.Image = ""https://www.roblox.com/Thumbs/Asset.ashx?width=420&height=420&assetId=83964438158443"
 	Close_ImageButton.ScaleType = Enum.ScaleType.Fit
 Close_ImageButton.Visible = false
 
